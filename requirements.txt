@@ -6,3 +6,6 @@ scikit-learn
 xgboost
 shap
 joblib
+flask
+streamlit
+requests
